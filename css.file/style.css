@@ -75,7 +75,7 @@ h1,h2,h3{
     position: relative;
     height:95vh;
     background: linear-gradient(rgba(0,0,0,.5)),rgba(0,0,0,.5);
-    background:url('../img/eva-darron-oCdVtGFeDC0-unsplash.jpg') ; 
+    background:url('../img/background.jpg') ; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -110,7 +110,7 @@ h1,h2,h3{
     padding-bottom: 0.3rem;;
 }
 .navbar a:hover{
-    border-bottom: 1px solid rgb(121, 34, 34);
+    border-bottom: 2px solid rgb(245, 242, 84);
 }
 
 .navbar::after{
